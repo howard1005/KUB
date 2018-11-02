@@ -1,17 +1,26 @@
 ---
 layout: page
-title: About
+title: About Developer
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+Junior developer
+Uibeom Kang(의범 강)
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+####Contact
+- E-mail : howard1004@naver.com
+- Tel : 010-2578-6750
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+####Feature Skills
+- C/C++
+- Python
+- Java
+- Solidworks/AutoCad
+- Matlab
+- Spotfire
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+####Experience
+- Samsung Display Engineer(17.1 ~ 18.10)
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+####Education
+- Korea University(seoul) Mechanical Engineering graduated(11.3 ~ 17.3)
