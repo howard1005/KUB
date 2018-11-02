@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Dummy Post 4"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: ipsum
+title:  "첫 게시글"
+date:   2018-11-02 13:43:59
+author: KUB
+categories: Develop
 ---
+이전 테마의 기능이 너무 없어서 Centrium테마로 갈아탔다.
+하지만 도메인이 자동으로 /project로 따지는거가 거슬린다...
 
 This is just a dummy post. Lorem ipsum and all the rest.
 
