@@ -9,9 +9,9 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: tom558@naver.com
+title: W O C
+subtitle: "어느 초보 개발자"
+email: howard1004@naver.com
 name: KUB
 description: >
   A simple yet classy theme for your Jekyll website or blog.
@@ -72,28 +72,28 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: howard1005
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: howard1005
     url:
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: howard1005
     url: https://github.com/bencentra
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: howard1005
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
     share: true
