@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "/KUB" # the subpath of your site, e.g. /blog/
 url: "http://howard1005.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/우주.jpg"
 logo: "/assets/home.png"
 
 # Build settings
