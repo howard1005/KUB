@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: W O C
-subtitle: "어느 초보 개발자"
+subtitle: "C/C++/Python/Security/Algorithm"
 email: howard1004@naver.com
 name: KUB
 description: >
@@ -21,7 +21,7 @@ description: >
 baseurl: "/KUB" # the subpath of your site, e.g. /blog/
 url: "http://howard1005.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/냥이.png"
 
 # Build settings
 markdown: kramdown
